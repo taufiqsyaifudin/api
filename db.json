@@ -4,24 +4,24 @@
         "id": 1,
         "foto": "null",
         "nama": "Laptop",
-        "hargaBeli": "9000",
-        "hargaJual": "10000",
+        "hargabeli": "9000",
+        "hargajual": "10000",
         "stok": "9"
         },
         {
             "id": 2,
             "foto": "null",
             "nama": "Handphone",
-            "hargaBeli": "8000",
-            "hargaJual": "11000",
+            "hargabeli": "8000",
+            "hargajual": "11000",
             "stok": "19"
         },
         {
             "id": 3,
             "foto": "null",
             "nama": "Mouse",
-            "hargaBeli": "8000",
-            "hargaJual": "9000",
+            "hargabeli": "8000",
+            "hargajual": "9000",
             "stok": "29"
         }
     ]
