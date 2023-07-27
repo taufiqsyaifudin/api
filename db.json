@@ -1,35 +1,28 @@
 {
-    "products": [
+    "barang": [
         {
         "id": 1,
-        "title": "Post 1",
-        "description": "a",
-        "price": "1",
-        "image": "null",
-        "imagePreviewUrl": "null"
+        "foto": "null",
+        "nama": "Laptop",
+        "hargaBeli": "9000",
+        "hargaJual": "10000",
+        "stok": "9"
         },
         {
-        "id": 2,
-        "title": "Post 2"
+            "id": 2,
+            "foto": "null",
+            "nama": "Handphone",
+            "hargaBeli": "8000",
+            "hargaJual": "11000",
+            "stok": "19"
         },
         {
-        "id": 3,
-        "title": "Post 3"
+            "id": 3,
+            "foto": "null",
+            "nama": "Mouse",
+            "hargaBeli": "8000",
+            "hargaJual": "9000",
+            "stok": "29"
         }
-    ],
-    "comments": [
-        {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-        },
-        {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
-    }
+    ]
+}
